@@ -44,10 +44,6 @@ idx = bo.find_cluster(0);            % K <= 0: auto-detect K
   - `tocluster_index = 5`
 - For unknown-K mode, call `find_cluster(0)` (or any `K <= 0`).
 
-## Top-Tier Writing Assets
-- Manuscript skeleton with explicit figure placeholders: `paper/MANUSCRIPT_TOP_TIER.md`
-- Figure placement and numbering checklist: `paper/FIGURE_INSERTION_MAP.md`
-- LaTeX submission draft with fixed `Fig. 1`-`Fig. 19` slots: `paper/main.tex`
 
 ## Citation
 Use the following BibTeX entries:
