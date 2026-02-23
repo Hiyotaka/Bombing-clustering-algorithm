@@ -47,7 +47,7 @@ idx = bo.find_cluster(0);            % K <= 0: auto-detect K
 
 ## Citation
 Use the following BibTeX entries:
-
+```
 @article{fei2025bombing,
   title   = {Discovering generalized clusters with adaptive mixture density-based clustering},
   author  = {Fei, Zexuan and Zhai, Haoyu and Yang, Jie and Wang, Bin and Ma, Yan},
@@ -58,6 +58,6 @@ Use the following BibTeX entries:
   doi     = {10.1016/j.knosys.2025.113250},
   url     = {https://doi.org/10.1016/j.knosys.2025.113250}
 }
-
+```
 
 The same entries are also saved in `paper/references.bib`.
